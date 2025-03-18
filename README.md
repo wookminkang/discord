@@ -1,2 +1,3 @@
 # discord
-test
+안녕?
+
